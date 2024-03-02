@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[361],{1361:function(e,o,p){e.exports=p.p+"static/media/online_appointment.1ec2c7c5d7ce2bd83a25.jpeg"}}]);
